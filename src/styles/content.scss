@@ -27,7 +27,7 @@ main {
   .movies-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 4.75rem;
+    grid-gap: 2rem;
     list-style: none;
   }
 }
