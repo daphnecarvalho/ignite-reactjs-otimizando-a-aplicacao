@@ -1,5 +1,5 @@
 {
-  "name": "01-github-explorer",
+  "name": "watchme",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -15,7 +15,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-feather": "^2.0.9",
-    "react-icons": "^4.3.1"
+    "react-icons": "^4.3.1",
+    "react-virtualized": "^9.22.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.8",
@@ -25,6 +26,7 @@
     "@babel/preset-typescript": "^7.16.7",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@types/react-dom": "^17.0.11",
+    "@types/react-virtualized": "^9.21.16",
     "babel-loader": "^8.2.3",
     "babel-preset-react-app": "^10.0.1",
     "cross-env": "^7.0.3",

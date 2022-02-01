@@ -22,12 +22,13 @@ header {
 
 main {
   width: 100%;
-  margin-top: 5.625rem;
+  margin-top: 4.525rem;
 
   .movies-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 2rem;
     list-style: none;
+    height: 81vh;
   }
 }
